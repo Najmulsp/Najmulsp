@@ -1,4 +1,4 @@
-![Junior Front End Developer](https://media.licdn.com/dms/image/D4D16AQFlufn9sTi-mg/profile-displaybackgroundimage-shrink_350_1400/0/1714678241853?e=1723680000&v=beta&t=cxA4agDbtyjH3uMSHsYRc4_M_tteCP2BKmBdATN0PAE)
+![Md Najmul](https://github.com/Najmulsp/Najmulsp/assets/155276146/231fbee2-2cc2-4e93-8595-97b71f8e329b)
 
 ### Hi there 👋, my name is Md Najmul
 #### Junior Front End Developer
