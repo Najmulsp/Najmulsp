@@ -1,4 +1,4 @@
-![Md Najmul](https://github.com/Najmulsp/Najmulsp/assets/155276146/231fbee2-2cc2-4e93-8595-97b71f8e329b)
+![Md Najmul (1)](https://github.com/Najmulsp/Najmulsp/assets/155276146/ed92f016-2c7e-49e2-9e62-2c40197564d0)
 
 ### Hi there 👋, my name is Md Najmul
 #### Junior Front End Developer
