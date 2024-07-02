@@ -5,7 +5,7 @@
 
 As a dedicated front-end web developer with knowledge of modern web technologies, I am capable of creating dynamic, responsive, and user-friendly interfaces. My impressive development skills, commitment to continuous learning, and ability to collaborate make me a valuable asset to any IT company seeking efficient, cutting-edge front-end solutions.
 
-Skills:  REACT JS /NODE JS/MONGO DB/ HTML / CSS/Tailwind CSS
+
 
 - 🔭 I’m currently working on skill development. 
 - 🌱 I’m currently learning Next JS. 
@@ -13,6 +13,8 @@ Skills:  REACT JS /NODE JS/MONGO DB/ HTML / CSS/Tailwind CSS
 - 💬 Ask me about Web Development. 
 - 📫 How to reach me: mdnajmulsarker1595@gmail.com 
 
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Najmulsp/Najmulsp/assets/155276146/988c7e19-1bcd-4934-8c50-e67186d5ef1b)
+">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Najmulsp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdnajmulsarker/)  
 
